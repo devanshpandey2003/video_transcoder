@@ -1,0 +1,9 @@
+.env
+node_modules
+dist
+package-lock.json
+package.json
+tsconfig.json
+container/node_modules
+container/package-lock.json
+container/package.json

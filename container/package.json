@@ -1,0 +1,17 @@
+{
+  "name": "video-transcoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": " node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.896.0",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
